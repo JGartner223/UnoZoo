@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(235, 234, 226) !important;
+
+    
+   }
+   
+   #header {
+       width: 100%;
+       max-width: 1600px;
+       margin: auto;
+       padding: 0 !important;
+   }
+
+   #footer {
+       padding: 0 !important;
+       max-width: 1600px;
+       margin:400px auto;
+}
+
+   #background {
+       max-width: 1600px;
+       background-color: white;
+       padding: 0 !important;
+   }
+
+   #card-img {
+       background-color: transparent;
+       z-index: 100;
+       margin-top: -300px;
+       margin-left: 15%;
+       position: absolute;
+       max-width: 300px
+   }
+
+   #cards {
+       width: 80%
+   }
+
+   
